@@ -66,4 +66,4 @@ https://linkfly.to/withgex
 [![Run on Repl.it](https://replit.com/badge/github/LobbyBot/Gex)](https://github.com/withgex/withgex-Lobby-Bot-Template.git)
 
 If you encounter bugs, issues, or have recommendations, feel free to join the Discord [here.](https://discord.gg/TmyJfq49AP)[![Discord Invite Widget](http://invidget.switchblade.xyz/TWJ6QVPkkk)](https://discord.com/invite/ZzQ5xzbQGc)
-<iframe src="https://discord.com/widget?id=870691606297206814&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+https://discord.com/widget?id=870691606297206814&theme=dark
