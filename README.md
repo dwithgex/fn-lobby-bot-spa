@@ -1,4 +1,4 @@
-## Gex Tools / Fortnite Lobby Bot
+## Gex Tools / Fortnite Lobby Bot (SPANISH)
 <p align="center">Un bot de Discord conectado a Fortnite que responde a los comandos que envías, a través de un canal de texto.
 https://github.com/withgex/withgex-Lobby-Bot-Template.git</p>
 
@@ -65,4 +65,4 @@ https://linkfly.to/withgex
 
 [![Run on Repl.it](https://replit.com/badge/github/LobbyBot/Gex)](https://github.com/withgex/withgex-Lobby-Bot-Template.git)
 
-<td align="left"><a href="https://cdn.discordapp.com/attachments/870706096560562297/888891111282720828/LOGOXD100X100.jpg"><img src="https://cdn.discordapp.com/attachments/870706096560562297/888891111282720828/LOGOXD100X100.jpg" width="100px;" alt=""/><br /><sub><b></b></sub></a><br /><a title=""></a></td>
+If you encounter bugs, issues, or have recommendations, feel free to join the Discord [here.](https://discord.gg/TmyJfq49AP)[![Discord Invite Widget](https://invidget.switchblade.xyz/EdrqJ6AMKF)](https://discord.com/invite/ZzQ5xzbQGc)
