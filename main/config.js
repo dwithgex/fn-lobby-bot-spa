@@ -17,7 +17,7 @@ module.exports = {
         status: 'Create your bot in: dsc.gg/gex ',
         platform: 'PSN', 
 
-        acceptFriend: false,
+        acceptFriend: true,
         acceptInvite: true,
         joinMessage: '- Para crear tu propio bot entra en dsc.gg/gex',
     }
