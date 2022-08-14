@@ -56,13 +56,10 @@ Y Presiona `ENTER`!
 
 <td align="left"><a href="https://cdn.discordapp.com/attachments/870706096560562297/890679956382814208/monitor.JPG"><img src="https://cdn.discordapp.com/attachments/870706096560562297/890679956382814208/monitor.JPG" width="600px;" alt=""/><br /><sub><b></b></sub></a><br /><a title=""></a></td>
 
-## 🌌 Soporte
-Soporte: 
-https://linkfly.to/withgex
-
 ##  🌌 Creditos
-[Gex] (https://github.com/withgex) 
+[Gex] (https://github.com/dwithgex) 
 
 [![Run on Repl.it](https://replit.com/badge/github/LobbyBot/Gex)](https://github.com/withgex/withgex-Lobby-Bot-Template.git)
 
+## 🌌 Soporte
 Si encuentra errores, problemas o tiene recomendaciones, no dude en unirse a Discord [here.](https://discord.gg/TmyJfq49AP)[![Discord Invite Widget](http://invidget.switchblade.xyz/TWJ6QVPkkk)](https://discord.com/invite/ZzQ5xzbQGc)
